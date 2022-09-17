@@ -1,0 +1,24 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.main-container img {
+  width: 80vw;
+  height: 600px;
+  /* margin-left: auto;
+    display: block; */
+}
+
+.info-container {
+  width: 70vw;
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+.flex-container {
+  width: 90vw;
+  display: flex;
+  justify-content: space-around;
+}

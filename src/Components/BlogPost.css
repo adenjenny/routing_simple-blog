@@ -1,0 +1,11 @@
+img {
+  width: 17.5rem;
+  height: 12.5rem;
+  border-radius: 10px;
+}
+
+.blog-post {
+  width: 17.5rem;
+  display: inline-block;
+  margin: 4rem;
+}
